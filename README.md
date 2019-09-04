@@ -1,3 +1,5 @@
-#Todo List
+# Todo List
 
-a todo list web app which use flask as backend framework
+a todo list web app which use flask as backend framework.
+
+![screen](screen.png)
