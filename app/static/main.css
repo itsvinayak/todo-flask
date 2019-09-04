@@ -1,9 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body{
-	background:black;
-	color:red;
-	margin-top: 5px;
+  background: black;
+  color: red;
+
 }
 .button{
-	color:green;
+  border:none;
+  height:1.5rem;
+  color:white;
+  background: gray;
+  padding: 5px;
 }
-.mark{font-size: 10px;}
+.button:hover{
+  background: lightblue;
+  color: black;
+}
+
+.item li{
+   padding: 2%;
+   margin-left: 3%;
+   list-style: inside;
+   font-size: 1.4rem;
+
+}
+
+.completeli{
+  text-decoration: line-through;
+
+}
+
+form {
+   margin: 4%;
+
+}
